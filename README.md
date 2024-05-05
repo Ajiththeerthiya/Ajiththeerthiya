@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajiththeerthiya R</h1>
 <h3 align="center">A passionate FullStack Developer, Creating cool Stuff. India</h3>
 
-- 👨‍💻 All of my projects are available at [https://ajiththeerthiya.netlify.ap](https://ajiththeerthiya.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ajiththeerthiya.netlify.app](https://ajiththeerthiya.netlify.app)
 
 - 📫 How to reach me **theerthiyaajith@gmail.com**
 
